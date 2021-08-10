@@ -19,7 +19,8 @@
 
 ![yellowsea github stats](https://github-readme-stats.vercel.app/api?username=yellowsae&theme=radical&show_icons=true&count_private=true)
 
-![yellowsae Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yellowsae&theme=solarized_dark)
+![hidie Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yellowsae&theme=solarized_dark)
+![hidie Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yellowsae&theme=solarized_dark)
 
 ![yellowsae Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellowsae&theme=solarized_dark)
 
