@@ -17,13 +17,3 @@
 
 ![yellowsae Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yellowsae&theme=solarized_dark)
 
-
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?theme=react&username=yellowsae&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&line_height=20"
-    alt="yellowsae readme card" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?theme=react&username=yellowsae&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&layout=compact"
-    alt="yellowsae top langs" />
-</p>
