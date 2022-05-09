@@ -11,7 +11,7 @@
 ### 📊 GitHub Stats:
 
 ---
-<div style='display: flex;'>
+<div style='width: 500px; display: flex;'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yellowsae&show_icons=true&theme=dracula&hide=contribs&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowsae&layout=compact&theme=dracula" />
 </div>
