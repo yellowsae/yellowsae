@@ -11,5 +11,7 @@
 ### 📊 GitHub Stats:
 
 ---
-![hidie-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowsae)
-<img align="right" src="https://github-readme-stats-hassan.vercel.app/api?username=yellowsae&theme=default_repocard&show_icons=true&count_private=true">
+<div style='display: flex;'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yellowsae&show_icons=true&theme=dracula&hide=contribs&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellowsae&layout=compact&theme=dracula" />
+</div>
